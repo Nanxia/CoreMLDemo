@@ -1,6 +1,6 @@
-Gitlab URL
+GitHab URL
 ---
-ssh://git@gitlab.adnonstop.com:2022/liaozq1/CoreMLDemo.git
+https://github.com/Nanxia/CoreMLDemo.git
 
 Requirements
 ---
